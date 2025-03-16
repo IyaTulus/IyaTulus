@@ -25,11 +25,11 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">I'm Aldi Tulus Pribadi from Indonesia.  <br><br>- 🔭 I’m a 6th-semester Informatics student at Universitas Ahmad Dahlan.  <br>- 📚 I'm currently learning microservices architecture and backend development with Laravel.  <br>- ⚡ In my free time, I explore new technologies, contribute to projects, and improve my coding skills.</p>
 
 ###
 
-<p align="left">I'm Aldi Tulus Pribadi from Indonesia.  <br><br>- 🔭 I’m a 6th-semester Informatics student at Universitas Ahmad Dahlan.  <br>- 📚 I'm currently learning microservices architecture and backend development with Laravel.  <br>- ⚡ In my free time, I explore new technologies, contribute to projects, and improve my coding skills.</p>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
